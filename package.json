@@ -4,6 +4,12 @@
   "private": true,
   "devDependencies": {
     "concurrently": "3.5.1",
+    "console-emoji": "0.0.2",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-react": "^7.11.1",
+    "prettier": "^1.14.3",
     "react-scripts": "^1.1.4"
   },
   "dependencies": {
